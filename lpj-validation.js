@@ -8,7 +8,7 @@
 *       Custom client side validation framework
 * @version      1.0.0
 * @dependency   jQuery 1.7.1
-*/
+**/
 if(typeof console === "undefined") var console = {log: function(){}}
 
 ; (function ($) {
